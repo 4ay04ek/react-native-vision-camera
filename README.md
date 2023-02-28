@@ -3,5 +3,6 @@
 </a>
 
 насрал
+еще насрал
 
 #### 🚀 Get started by [setting up permissions](https://mrousavy.github.io/react-native-vision-camera/docs/guides/)!
