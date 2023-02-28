@@ -4,5 +4,6 @@
 
 техете
 техете1
+техете2
 
 #### 🚀 Get started by [setting up permissions](https://mrousavy.github.io/react-native-vision-camera/docs/guides/)!
